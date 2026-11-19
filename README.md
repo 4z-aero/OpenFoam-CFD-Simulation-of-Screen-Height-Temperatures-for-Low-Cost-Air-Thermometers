@@ -1,0 +1,2 @@
+# OpenFoam-CFD-Simulation-of-Screen-Height-Temperatures-for-Low-Cost-Air-Thermometers
+OpenFOAM 12 neighbourhood-scale RANS CFD framework for siting low-cost air thermometers and Stevenson screens. Build a site from modular buildings, lawns, trees, hedges and vehicles with prescribed surface temperatures; rank screen-height bias across wind cases to find the least-influenced location. Used as siting guide, not temperature predictor.
